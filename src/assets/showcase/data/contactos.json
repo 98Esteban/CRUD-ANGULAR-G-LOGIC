@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"nombre": "Andres",
+			"entidad": "Entidad",
+            "email": "andres@gmail.com"
+		},
+        {
+			"id": "1000",
+			"nombre": "Ricardo",
+			"entidad": "Entidad",
+            "email": "ricardo@gmail.com"
+		},
+        {
+			"id": "1000",
+			"nombre": "Javier",
+			"entidad": "Entidad",
+            "email": "javier@gmail.com"
+		}
+	]
+}
